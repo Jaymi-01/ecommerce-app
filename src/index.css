@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme{
+    --color-header: #2072af;
+    --color-header-text: #ffffff;
+    --color-header-text-hover: #32a6d5;
+    --coloe-banner: #ffcc3e;
+    --color-banner-text: #f21924;
+}
